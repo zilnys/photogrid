@@ -1,4 +1,4 @@
-photogrid
+Photogrid
 =========
 
-Photo grid jquery ui plugin for justified flickr-like image galleries
+Photo grid is jquery ui plugin for justified flickr-like image galleries.
