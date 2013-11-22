@@ -1,0 +1,20 @@
+.photo-grid {
+	margin: 40px 20px 80px 20px;
+}
+
+.photo-grid img {
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+
+	/*padding-right: 8px;*/
+	max-width:100%; 
+	max-height:100%;
+}
+
+
+.photo-grid-row {
+	height: 208px;
+	width: 100%;
+	margin: 8px 0;
+}
